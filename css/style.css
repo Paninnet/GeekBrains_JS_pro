@@ -1,0 +1,17 @@
+header{
+  background-color: rgb(144, 138, 141);
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+}
+
+.products{
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  background-color: bisque;
+  justify-content: space-around;
+}
+.product-item{
+  border: 1px solid black;
+}
